@@ -1,0 +1,113 @@
+.Login1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 32px;
+    background-color: #0072ff;
+    width: 400px;
+    height: 300px;
+    justify-content: space-around;
+    border-radius: 16px;
+    padding-left: 20px;
+    opacity: 75;
+}
+#s{
+   color: #01295a;
+}
+/*Texto Criar Contra*/
+#s1{
+    font-size: 14px;
+}
+#s2{
+    color: black;
+}
+/*Texto Criar Contra*/
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    
+}
+
+
+.Text{
+    border: 2px black;
+    border-radius: 12px;
+    width: 270px;
+    height: 39px;
+}
+
+
+.button1{
+    background-color: #0e55ad;
+    width: 114px;
+    height: 40px;
+    color: white;
+    border-radius: 12px;
+    border: 2px #0e55ad;
+    font-size: 19px;
+}
+
+
+.Text2{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.butback {
+    color: white;
+}
+
+
+@media (max-width: 768px) {
+    .Login1 {
+      width: 80%; 
+      height: auto; 
+      padding: 20px; 
+      font-size: 24px; 
+      align-items: center;
+    }
+  
+    .Text {
+      width: 100%; 
+    }
+  
+    .button1 {
+      width: 100%;
+      font-size: 16px; 
+    }
+  
+    #s1 {
+      font-size: 12px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .Login1 {
+      width: 90%; 
+      height: auto;
+      font-size: 20px; 
+      padding: 10px; 
+    }
+  
+    .Text {
+      width: 100%; 
+      height: 35px; 
+    }
+  
+    .button1 {
+      width: 100%; 
+      font-size: 16px; 
+    }
+  
+    #s1 {
+      font-size: 10px;
+    }
+  
+    #s2 {
+      font-size: 12px; 
+    }
+  }

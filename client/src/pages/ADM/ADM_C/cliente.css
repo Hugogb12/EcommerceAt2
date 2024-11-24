@@ -1,0 +1,29 @@
+#U{
+    display: flex;
+    flex-direction: row;
+}
+#BodyU{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    font-size: 20px;
+}
+#Tusuario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:20vh;
+}
+#Utabela{
+    display: flex;
+    justify-content: center;
+  
+    height: 80vh;
+}
+#usuario{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}

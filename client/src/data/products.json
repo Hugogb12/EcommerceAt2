@@ -1,0 +1,295 @@
+{
+  "jogos": [
+    {"titulo": "The Legend of Zelda: BOTW",
+      "desenvolvedor": "Nintendo",
+      "publicador": "Nintendo",
+      "data_de_lancamento": "03-03-2017",
+      "plataformas": ["Nintendo Switch", "Wii U"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000000025/7137262b5a64d921e193653f8aa0b722925abc5680380ca0e18a5cfd91697f58"
+    },
+    
+    {
+      "titulo": "God of War",
+      "desenvolvedor": "Santa Monica Studio",
+      "publicador": "Sony Interactive Entertainment",
+      "data_de_lancamento": "20-04-2018",
+      "plataformas": ["PlayStation 4"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://blog.monsternotebook.com.tr/wp-content/uploads/gecmisten-gunumuze-god-of-war.jpg"
+    },
+    
+    {"titulo": "Red Dead Redemption 2",
+      "desenvolvedor": "Rockstar Studios",
+      "publicador": "Rockstar Games",
+      "data_de_lancamento": "26-10-2018",
+      "plataformas": ["PlayStation 4", "Xbox One", "PC", "Stadia"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
+    },
+    
+    {"titulo": "Uncharted: LOTC",
+      "desenvolvedor": " Naughty Dog",
+      "publicador": " PlayStation Studios",
+      "data_de_lancamento": "28-01-2022",
+      "plataformas": ["PlayStation 5", "PC"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://assets.nuuvem.com/image/upload/v1/products/624310aa3b6d0366c7030169/sharing_images/iun7ckun9gynahvtuxlb.jpg"
+    },
+      
+      {"titulo": "Death Stranding",
+      "desenvolvedor": "  Kojima Productions",
+      "publicador": " 505Games",
+      "data_de_lancamento": "08-09-2019",
+      "plataformas": ["PlayStation 4/5", "PC"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg?h=270&quality=medium&resize=1&w=480"
+    },
+      
+      {"titulo": "The Elder Scrolls V: Skyrim",
+      "desenvolvedor": "  Bethesda Game Studios",
+      "publicador": "  Bethesda Game Studios",
+      "data_de_lancamento": "11-09-2011",
+      "plataformas": ["PlayStation", "Xbox","Pc"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://image.api.playstation.com/vulcan/ap/rnd/202110/2019/aDSOgerXg4V6sf5A7VzHiTun.jpg" 
+    },
+      
+      {"titulo": "Subnautica",
+      "desenvolvedor": "  Unknown Worlds Entertainment",
+      "publicador": "  Unknown Worlds Entertainment",
+      "data_de_lancamento": "16-12-2014",
+      "plataformas": ["PlayStation 4/5", "PC","Xbox"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/pt_BR/games/switch/s/subnautica-switch/hero"
+    },
+      
+      {"titulo": " Metro Exodus",
+      "desenvolvedor": " 4A Games",
+      "publicador": " PlayStation Studios",
+      "data_de_lancamento": "28-01-2022",
+      "plataformas": ["PlayStation 4/5"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://store-images.s-microsoft.com/image/apps.857.65642028844779555.c518e652-fc85-4d6e-99a2-3e9ae1656a91.cf450892-9317-48fe-8d3b-f6083c6c5d9a?q=90&w=480&h=270"
+    }, 
+      
+      {"titulo": " Gears 5",
+      "desenvolvedor": " The Coalition",
+      "publicador": "  Xbox Game Studios",
+      "data_de_lancamento": "09-09-2019",
+      "plataformas": ["Xbox,Pc"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://assets.xboxservices.com/assets/a5/d4/a5d4884a-ae18-4455-9c6a-174cd6a081f2.jpg?n=Gears-5_GLP-Page-Hero-1084_2020_1920x1080_04.jpg"
+    }, 
+
+      {"titulo": " HELLDIVERS™ 2",
+      "desenvolvedor": " 4A Games",
+      "publicador": " PlayStation Studios",
+      "data_de_lancamento": "08-02-2024",
+      "plataformas": ["PlayStation 5", "PC"],
+      "genero": "Acao-aventura",
+      "imagem_url":"https://image.api.playstation.com/vulcan/ap/rnd/202309/2116/3f1bd2f20b06047e0f029d44c909a2a58b45e7fc6ae1dd0f.jpg"
+    }, 
+    
+
+
+
+
+
+
+
+
+    
+    {
+      "titulo": "Minecraft",
+      "desenvolvedor": "Mojang",
+      "publicador": "Mojang",
+      "data_de_lancamento": "18-11-2011",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Mobile"],
+      "genero": "Estrategia",
+      "imagem_url":"https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a"
+    },
+    {
+      "titulo": "Palworld",
+      "desenvolvedor": "Epic Games",
+      "publicador": "Pocket Pair, Inc.",
+      "data_de_lancamento": "21-07-2017",
+      "plataformas": ["PC", "Xbox One"],
+      "genero": "Estrategia",
+      "imagem_url":"https://t2.tudocdn.net/699127?w=1920"
+    },
+    {
+      "titulo": "R.U.S.E",
+      "desenvolvedor": "Eugen Systems",
+      "publicador": "Ubisoft",
+      "data_de_lancamento": "07-09-2010",
+      "plataformas": ["PC", "PlayStation", "Xbox"],
+      "genero": "Estrategia",
+      "imagem_url":"https://images.pushsquare.com/962b4f0da99cb/1280x720.jpg"
+    },
+    {
+      "titulo": "Baldur's Gate 3",
+      "desenvolvedor": "Larian Studios",
+      "publicador": "Larian Studios",
+      "data_de_lancamento": "03-8-2023",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One","Xbox Series X", "Xbox Series S", "PlayStation 5"],
+      "genero": "Estrategia",
+      "imagem_url":"https://store-images.s-microsoft.com/image/apps.16348.13979283744563866.8ade8915-d9bd-4323-a968-869ea471a077.d8714753-3174-4aa8-aeda-40c20065625d?q=90&w=480&h=270"
+    },
+    {
+      "titulo": "Anno 1800",
+      "desenvolvedor": "Ubisoft Mainz",
+      "publicador": "Ubisoft",
+      "data_de_lancamento": "16-04-2019",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One","Xbox Series X", "Xbox Series S", "PlayStation 5"],
+      "genero": "Estrategia",
+      "imagem_url":"https://d5gag3xtge2og.cloudfront.net/producao/33211875/G/anno-1800----ps5.webp"
+    },
+    {
+      "titulo": "Company of Heroes 3",
+      "desenvolvedor": "Relic",
+      "publicador": "Sega",
+      "data_de_lancamento": "23-02-2023",
+      "plataformas": ["PC", "PlayStation 5", "Xbox Series X/S"],
+      "genero": "Estrategia",
+      "imagem_url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677280/capsule_616x353.jpg?t=1722417077"
+    },
+    {
+      "titulo": "Men of War: Assault Squad 2",
+      "desenvolvedor": " Digitalmindsoft",
+      "publicador": " Digitalmindsoft",
+      "data_de_lancamento": "15-05-2014",
+      "plataformas": ["PC"],
+      "genero": "Estrategia",
+      "imagem_url":"https://cdn1.epicgames.com/spt-assets/31efa622a0e04492a1dc4b6ae78649f2/men-of-war-assault-squad-12jmt.jpg"
+    },
+    {
+      "titulo": "Cepheus Protocol",
+      "desenvolvedor": "Halcyon Winds",
+      "publicador": " Halcyon Winds",
+      "data_de_lancamento": "15-05-2020",
+      "plataformas": ["PC"],
+      "genero": "Estrategia",
+      "imagem_url":"https://cdn1.epicgames.com/spt-assets/e7a7215121c242e29d6f3b69d661b918/cepheus-protocol-1rtmx.jpg"
+    },
+    {
+      "titulo": "RimWorld",
+      "desenvolvedor": " Ludeon Studios",
+      "publicador": "  17-10-2018",
+      "data_de_lancamento": "28-10-2021",
+      "plataformas": ["PC"],
+      "genero": "Estrategia",
+      "imagem_url":"https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg"
+    },
+    
+    {
+      "titulo": "Age of Empires",
+      "desenvolvedor": " Xbox Game Studios",
+      "publicador": "  Xbox",
+      "data_de_lancamento": "28-10-2021",
+      "plataformas": ["PC"],
+      "genero": "Estrategia",
+      "imagem_url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/813780/capsule_616x353.jpg?t=1716242966"
+    },
+    
+    
+    
+
+
+
+
+
+
+
+    {
+      "titulo": "Batman Arkham City",      
+      "desenvolvedor": "Rocksteady",
+      "publicador": "Warner Bros Games",
+      "data_de_lancamento": "18-10-2011",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Xbox Series X", "Xbox Series S", "PlayStation 5", "PlayStation 3", "Xbox 360"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://assets.nuuvem.com/image/upload/v1/products/557dbcab69702d0a9ce80501/sharing_images/bdcppcasvjqw45p2h31k.jpg"
+    },
+    {
+      "titulo": "Batman Arkham Asylum",      
+      "desenvolvedor": "Rocksteady",
+      "publicador": "Warner Bros Games",
+      "data_de_lancamento": "25-08-2009",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Xbox Series X", "Xbox Series S", "PlayStation 5", "PlayStation 3", "Xbox 360"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://img.hype.games/cdn/82ebf6cb-7bb9-43ab-8572-ffbf2fd5a601baagotye-cover.jpg"
+    },
+    {
+      "titulo": "Batman Arkham Origins",      
+      "desenvolvedor": "Rocksteady",
+      "publicador": "Warner Bros Games",
+      "data_de_lancamento": "25-10-20",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Xbox Series X", "Xbox Series S", "PlayStation 5", "PlayStation 3", "Xbox 360"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_BatmanArkhamOrigins.jpg"
+    },{
+      "titulo": "Batman Arkham Knight",   
+      "desenvolvedor": "Rocksteady",
+      "publicador": "Warner Bros Games",
+      "data_de_lancamento": "24-03-2015",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One","Xbox Series X", "Xbox Series S", "PlayStation 5"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/208650/capsule_616x353.jpg?t=1702934528"
+    },
+    {
+      "titulo": "Dark Souls III",     
+      "desenvolvedor": "FromSoftware",
+      "publicador": "Bandai Namco Entertainment",
+      "data_de_lancamento": "24-03-2016",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://assets.nuuvem.com/image/upload/v1/products/5703b88ed27734565a000045/sharing_images/khotnvdk8lir2sjxmfst.jpg"
+    },
+    {
+      "titulo": "The Witcher 3: Wild Hunt",  
+      "desenvolvedor": "CD Projekt Red",
+      "publicador": "CD Projekt",
+      "data_de_lancamento": "15-05-2015",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f"
+    },
+    {
+      "titulo": "Elden Ring",  
+      "desenvolvedor": "FromSoftware",
+      "publicador": "Bandai Namco Entertainment",
+      "data_de_lancamento": "25-02-2022",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One","Xbox Series X", "Xbox Series S", "PlayStation 5"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://assets.nuuvem.com/image/upload/v1/products/618418052f91a002e3f9cf6b/sharing_images/dl3d5ccidn9wlkemhfjr.jpg"
+    },
+    {
+      "titulo": "Cyberpunk 2077",  
+      "desenvolvedor": "CD PROJEKT RED",
+      "publicador": "CD PROJEKT RED",
+      "data_de_lancamento": "10-12-2020",
+      "plataformas": ["PC", "PlayStation 4", "Xbox One","Xbox Series X", "Xbox Series S", "PlayStation 5"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://image.api.playstation.com/vulcan/ap/rnd/202311/2812/ae84720b553c4ce943e9c342621b60f198beda0dbf533e21.jpg"
+    },
+    {
+      "titulo": "Diablo IV",  
+      "desenvolvedor": "  Blizzard Entertainment, Inc.",
+      "publicador": "  Blizzard Entertainment, Inc.",
+      "data_de_lancamento": "10-12-2020",
+      "plataformas": ["PC", "PlayStation ", "Xbox"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://gameplayscassi.com.br/wp-content/smush-webp/2023/04/diablo-4-1-696x392.jpg.webp"
+    }   ,
+    {
+      "titulo": "Starfield",  
+      "desenvolvedor": "  Bethesda Game Studios",
+      "publicador": "  Bethesda Game Studios",
+      "data_de_lancamento": "05-09-2023",
+      "plataformas": ["PC","Xbox Series X", "Xbox Series S"],
+      "genero": "RPG-de-acao",
+      "imagem_url":"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1716740/capsule_616x353.jpg?t=1718028618"
+    }   
+    
+  ]
+}

@@ -1,0 +1,71 @@
+body {
+  margin: 0; 
+  padding: 0; 
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url(../image/Imagem4K.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  z-index: -1;
+}
+
+#Name_1 {
+  font-size: 55px;
+  color: white;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 50px;
+}
+
+#Name_1 span {
+  color: #0072ff;
+}
+
+#input1 {
+  width: 120px;
+  color: white;
+  border-radius: 34px;
+  width: 200px;
+  height: 40.7px;
+  font-size: 16px;
+  background-color: #04348b;
+   border: #04348b;
+}
+
+@media (max-width: 768px) {
+  #Name_1 {
+    font-size: 40px;  
+    padding-left: 20px;  
+  }
+
+  #input1 {
+    width: 150px;  
+    font-size: 14px;  
+  }
+}
+
+@media (max-width: 480px) {
+  #Name_1 {
+    font-size: 30px; 
+    padding-left: 15px;  
+    align-items: center; 
+  }
+
+  #input1 {
+    width: 120px;  
+    font-size: 12px;  
+  }
+}
+
